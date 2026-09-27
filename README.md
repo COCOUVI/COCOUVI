@@ -9,7 +9,7 @@ Software developer building tools for the Laravel ecosystem. I work mostly in PH
 
 ## Contributions
 
-* [laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commandset): Artisan commands that don't exist in core Laravel (custom builders, collections, and more).
+* [laravel-extended-commands](https://github.com/MrPunyapal/laravel-extended-commands): Artisan commands that don't exist in core Laravel (custom builders, collections, and more).
 * [laravel-attributes-list](https://github.com/MrPunyapal/laravel-attributes-list): A reference list of useful PHP attributes for Laravel projects.
 * [rector-laravel](https://github.com/driftingly/rector-laravel): Rector rules for automating Laravel upgrades and refactors.
 * [Laravel-Tips](https://github.com/COCOUVI/Laravel-Tips): A collection of Laravel tips and tricks.
